@@ -71,12 +71,23 @@ Document and report confirmed phishing cases to your SOC or CERT team.
 
 phishing-email-analysis/
 │
-├── sample-1034.eml              # Raw phishing email sample
-├── human_text.txt               # Extracted readable text
-├── analysis_summary.pdf          # Final report (PDF)
-├── phishing_report.docx          # Word version
-├── README.md                     # Project documentation
-└── screenshots/                  # Supporting screenshots
+├── sample-1034.eml             
+# Raw phishing email sample
+
+├── human_text.txt               
+# Extracted readable text
+
+├── analysis_summary.pdf          
+# Final report (PDF)
+
+├── phishing_report.docx          
+# Word version
+
+├── README.md                     
+# Project documentation
+
+└── screenshots/                  
+# Supporting screenshots
 
 ⚠️ Disclaimer
 
