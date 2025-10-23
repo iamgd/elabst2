@@ -8,11 +8,16 @@ The investigation covers sender validation, header inspection, link and URL chec
 The objective is to showcase practical email forensics and threat detection skills used in cybersecurity investigations.
 
 🧰 Tools & Environment
-Tool	Purpose
-Kali Linux / Ubuntu	Analysis environment
-grep, cat, less	Text extraction and pattern search
-Online Header Analyzer (MXToolbox / Google Admin Toolbox)	Email header validation
-VirusTotal / URLVoid	Link & domain safety checks
+
+| Tool                                                          | Purpose                                 |
+| ------------------------------------------------------------- | --------------------------------------- |
+| **Kali Linux / Ubuntu**                                       | Analysis environment                    |
+| **grep, cat, less**                                           | Text extraction and pattern search      |
+| **Online Header Analyzer** (MXToolbox / Google Admin Toolbox) | Email header validation                 |
+| **VirusTotal / URLVoid**                                      | Link & domain safety checks             |
+| **Wireshark (optional)**                                      | Network-level trace analysis            |
+| **LibreOffice / ReportLab**                                   | Documentation and PDF report generation |
+
 
 
 🧩 Steps Followed
