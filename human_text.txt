@@ -1,0 +1,18 @@
+   Microsoft account
+   Unusual sign.in activity
+   We detected something unusual about a recent sign-in to the Microsoft
+   account phishing@pot.
+   Sign-in details
+   Country/region: Russia/Moscow
+   IP address: 103.225.77.255
+   Date: Thu, 03 Aug 2023 03:57:48 +0000
+   Platform: Windows 10
+   Browser: Firefox
+   A user from Russia/Moscow just logged into your account from a new
+   device, If this wasn't you, please report the user. If this was you,
+   we'll trust similar activity in the future.
+   Report The User
+   To opt out or change where you receive security notifications, click
+   here.
+   Thanks,
+   The Microsoft account team
